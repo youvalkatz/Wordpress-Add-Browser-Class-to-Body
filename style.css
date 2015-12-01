@@ -1,0 +1,25 @@
+body.ie,
+.ie h1,
+.ie h2,
+.ie h3,
+.ie h4,
+.ie h5,
+.ie h6,
+.ie hgroup,
+.ie h1 a,
+.ie h2 a,
+.ie h3 a,
+.ie h4 a,
+.ie h5 a,
+.ie h6 a,
+.ie blockquote,
+.ie .widget-title,
+.ie ul,
+.ie li,
+.ie input,
+.ie select,
+.ie textarea,
+.ie a
+{
+    font-family: Arial, Helvetica, sans-serif !important;
+}
